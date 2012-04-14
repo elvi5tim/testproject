@@ -1,3 +1,3 @@
 ﻿class Test {
-	private $test;
+	private $test4;
 }
